@@ -6,8 +6,8 @@ public class Main {
     public static void main(String[] args) {
         ArrayList<Vehiculo> vehiculos = new ArrayList<>();
 
-        vehiculos.add(new Auto("Ferrari", "Pura Sangre", 70));
-        vehiculos.add(new Moto("BMW", "S1000RR", 40));
+        vehiculos.add(new Auto("Ferrari", "Pura Sangre", 80));
+        vehiculos.add(new Moto("BMW", "M1000RR", 50));
 
         int dias = 5;
 
